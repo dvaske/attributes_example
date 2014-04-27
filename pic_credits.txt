@@ -1,0 +1,11 @@
+Pictures:
+
+europe_needles.jpg:
+  Original-image-by: Charles Clegg
+  Original-image-link: https://www.flickr.com/photos/glasgowamateur/7892308660/
+  License:  https://creativecommons.org/licenses/by-sa/2.0/legalcode
+
+hello_world.jpg:
+  Original-image-by: Laen (James "Laen Finehack" Neal)
+  Original-image-link: https://www.flickr.com/photos/laen/2677556036
+  license:  https://creativecommons.org/licenses/by-sa/2.0/legalcode
