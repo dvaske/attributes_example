@@ -9,3 +9,6 @@ hello_world.jpg:
   Original-image-by: Laen (James "Laen Finehack" Neal)
   Original-image-link: https://www.flickr.com/photos/laen/2677556036
   license:  https://creativecommons.org/licenses/by-sa/2.0/legalcode
+
+All pictures has only been altered by resizing as they are just used as examples
+for diffing pictures by exif data.
